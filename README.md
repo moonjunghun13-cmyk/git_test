@@ -1,4 +1,4 @@
-\# Git/GitHub 연습
+\# Git/GitHub 연습 - FRONTEND
 
 
 
